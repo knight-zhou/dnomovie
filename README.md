@@ -24,4 +24,4 @@
 		 
 		 
 		 
-补充: 数据库文件在sql文件夹里面直接导入即可，然后通过  python manage.py runserver 0.0.0.0:8000 即可访问
+补充: 数据库文件在"数据库文件"文件夹里面直接导入即可，然后通过  python manage.py runserver 0.0.0.0:8000 即可访问
